@@ -1,0 +1,17 @@
+{
+  "name": "Sweng.Lyrics",
+  "description": "Sweng Lyrics Link Hub Extension ",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "logo_16.jpg",
+    "32": "logo_32.jpg",
+    "48": "logo_48.jpg",
+    "128": "logo_128.jpg"
+  },
+
+  "action": {
+    "default_icon": "logo_32.jpg",
+    "default_popup": "index.html"
+  }
+}
